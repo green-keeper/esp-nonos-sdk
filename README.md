@@ -33,7 +33,7 @@ They were ommited from original SDK, and basically deal with most of Wi-fi stack
   * `libwps.a` - Wi-fi WPS (wi-fi protected setup)
 
 
-* [FreeBSD Wifi Stack](https://github.com/freebsd/freebsd-src/tree/23db5fccb60a1b008c7cbd3a6b88f9a6b1bac167/sys/net80211)
+* [FreeBSD Wi-fi Stack](https://github.com/freebsd/freebsd-src/tree/23db5fccb60a1b008c7cbd3a6b88f9a6b1bac167/sys/net80211)
 
   * `libnet80211.a` - Wi-fi MAC IEEE 802.11
 
@@ -54,10 +54,10 @@ There are some open source versions, from reverse engineering process, but most 
 
 
 * Non-essential for most applications
-  * `libairkiss.a` - Wifi AirKiss
+  * `libairkiss.a` - Wi-fi AirKiss
   * `libat.a` - AT command firmware
   * `libespnow.a` - ESP-NOW protocol implementation
   * `libpwm.a` - Pulse Wave Modulation from software
-  * `libsmartconfig.a` - Wifi Smart Config
+  * `libsmartconfig.a` - Wi-fi Smart Config
   * `ligssl.a` - SSL features (very obscure)
   * `libupgrade.a` - OTA upgrades self managed (system_upgrade_start)
